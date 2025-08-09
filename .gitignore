@@ -2,4 +2,4 @@
 env
 __pycache__
 emails.csv
-.streanlit/secrets.toml
+.streamlit/secrets.toml
