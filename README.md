@@ -1,5 +1,7 @@
 A GenAI-powered email classification system that uses fine-tuned LLMs and a Streamlit chatbot interface to classify Microsoft Outlook emails by category (Finance, HR, Legal, Admin) and priority (High, Medium, Low).
 
+<img width="1920" height="1080" alt="Screenshot 2025-08-31 at 12 20 50" src="https://github.com/user-attachments/assets/e77e2604-9f9b-412c-bd30-c7f6fa7c5d50" />
+
 Features
 
 Fine-tuned sentence-transformers/all-MiniLM-L12-v2 using LoRA adapters.
@@ -55,4 +57,4 @@ pip install -r requirements.txt
 3. Run the app
 
 streamlit run chatbot_ui.py
-<img width="1920" height="1080" alt="Screenshot 2025-08-31 at 12 20 50" src="https://github.com/user-attachments/assets/e77e2604-9f9b-412c-bd30-c7f6fa7c5d50" />
+
