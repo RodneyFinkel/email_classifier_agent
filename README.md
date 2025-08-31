@@ -55,3 +55,4 @@ pip install -r requirements.txt
 3. Run the app
 
 streamlit run chatbot_ui.py
+<img width="1920" height="1080" alt="Screenshot 2025-08-31 at 12 20 50" src="https://github.com/user-attachments/assets/e77e2604-9f9b-412c-bd30-c7f6fa7c5d50" />
